@@ -28,6 +28,7 @@ public class Task01 {
                 break;
             default:
                 System.out.println("Incorrect value. Please enter any value from 1 to 7");
+                break;
         }
     }
 }

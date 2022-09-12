@@ -39,6 +39,7 @@ public class Task04 {
                 break;
             default:
                 System.out.println("Incorrect value. Please enter any value from 0 to 23");
+                break;
         }
     }
 }
