@@ -1,6 +1,6 @@
 package lesson03;
 
-public class Task03 {
+public class Task3 {
     public static void main(String[] args) {
         int currentTime = 24;
         if (currentTime >= 0 && currentTime < 24) {
