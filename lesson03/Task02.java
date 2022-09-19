@@ -1,6 +1,6 @@
 package lesson03;
 
-public class Task2 {
+public class Task02 {
     public static void main(String[] args) {
         int dayOfWeek = 54564;
         if (dayOfWeek == 1) {
